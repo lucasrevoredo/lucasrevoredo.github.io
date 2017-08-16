@@ -1,5 +1,9 @@
 ﻿CACHE MANIFEST
+<<<<<<< HEAD
 #1502859125
+=======
+#1502820452
+>>>>>>> d60b3f1f748ebcf825a3a953f22c6ccfe117529e
 data.js
 c2runtime.js
 jquery-2.1.1.min.js

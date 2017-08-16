@@ -1,5 +1,9 @@
 ﻿{
+<<<<<<< HEAD
 	"version": 1502859125,
+=======
+	"version": 1502820452,
+>>>>>>> d60b3f1f748ebcf825a3a953f22c6ccfe117529e
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
