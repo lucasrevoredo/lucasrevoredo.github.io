@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1503279313,
+	"version": 1504495321,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -111,6 +111,8 @@
 		"images/sprite12-sheet0.png",
 		"images/sprite13-sheet0.png",
 		"images/gosma-sheet0.png",
+		"images/restartbutton-sheet0.png",
+		"images/camera-sheet0.png",
 		"media/click3.m4a",
 		"media/click3.ogg",
 		"media/221540__unfa__melee-attack-2.m4a",
@@ -131,6 +133,8 @@
 		"media/game_over[1].ogg",
 		"media/385074__dk77__dkno-logo-efx-i.m4a",
 		"media/385074__dk77__dkno-logo-efx-i.ogg",
+		"media/343995__reitanna__spooked.m4a",
+		"media/343995__reitanna__spooked.ogg",
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",
