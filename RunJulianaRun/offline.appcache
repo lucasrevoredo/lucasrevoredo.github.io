@@ -1,5 +1,5 @@
 ﻿CACHE MANIFEST
-#1504495321
+#1504552452
 data.js
 c2runtime.js
 jquery-2.1.1.min.js
@@ -112,6 +112,7 @@ images/sprite13-sheet0.png
 images/gosma-sheet0.png
 images/restartbutton-sheet0.png
 images/camera-sheet0.png
+images/sensorsolido-sheet0.png
 media/click3.m4a
 media/click3.ogg
 media/221540__unfa__melee-attack-2.m4a

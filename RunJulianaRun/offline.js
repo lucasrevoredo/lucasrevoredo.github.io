@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1504495321,
+	"version": 1504552452,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -113,6 +113,7 @@
 		"images/gosma-sheet0.png",
 		"images/restartbutton-sheet0.png",
 		"images/camera-sheet0.png",
+		"images/sensorsolido-sheet0.png",
 		"media/click3.m4a",
 		"media/click3.ogg",
 		"media/221540__unfa__melee-attack-2.m4a",
